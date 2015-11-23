@@ -1,2 +1,2 @@
 # Go Proverbs
-![](page1.png)
+![](gp1.png)
