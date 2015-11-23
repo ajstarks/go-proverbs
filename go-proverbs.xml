@@ -1,0 +1,127 @@
+<deck>
+
+ <slide>
+    <text xp="10" yp="50" align="center" sp="2.5" color="maroon">Go Proverbs</text>
+    <text xp="25" yp="95.00" sp="1.6" align="left">Don’t communicate by sharing memory, share memory by communicating.</text>
+    <image xp="20" yp="96.00" width="300" height="300" scale="7" name="noun_skill-share_14291.png" />
+    <text xp="25" yp="89.8" sp="1.6" align="left">Concurrency is not parallelism.</text>
+    <image xp="20" yp="90.8" width="300" height="300" scale="7" name="noun_up-arrows_220576.png" />
+    <text xp="25" yp="84.6" sp="1.6" align="left">Channels orchestrate; mutexes serialize.</text>
+    <image xp="20" yp="85.6" width="300" height="300" scale="7" name="noun_pipes_61289.png" />
+    <text xp="25" yp="79.4" sp="1.6" align="left">The bigger the interface, the weaker the abstraction.</text>
+    <image xp="20" yp="80.4" width="300" height="300" scale="7" name="noun_whale_149531.png" />
+    <text xp="25" yp="74.2" sp="1.6" align="left">Make the zero value useful.</text>
+    <image xp="20" yp="75.2" width="300" height="300" scale="7" name="noun_okay_13505.png" />
+    <text xp="25" yp="69.00" sp="1.6" align="left">interface{} says nothing.</text>
+    <image xp="20" yp="70.00" width="300" height="300" scale="7" name="noun_mute_163525.png" />
+    <text xp="25" yp="63.8" sp="1.6" align="left">Gofmt’s style is no one’s favorite, yet gofmt is everyone’s favorite.</text>
+    <image xp="20" yp="64.8" width="300" height="300" scale="7" name="noun_curly-brackets_108564.png" />
+    <text xp="25" yp="58.6" sp="1.6" align="left">A little copying is better than a little dependency.</text>
+    <image xp="20" yp="59.6" width="300" height="300" scale="7" name="noun_copy_110923.png" />
+    <text xp="25" yp="53.4" sp="1.6" align="left">Syscall must always be guarded with build tags.</text>
+    <image xp="20" yp="54.4" width="300" height="300" scale="7" name="noun_tools_59222.png" />
+    <text xp="25" yp="48.2" sp="1.6" align="left">Cgo must always be guarded with build tags.</text>
+    <image xp="20" yp="49.2" width="300" height="300" scale="7" name="noun_copyright_62293.png" />
+    <text xp="25" yp="43.00" sp="1.6" align="left">Cgo is not Go.</text>
+    <image xp="20" yp="44.00" width="300" height="300" scale="7" name="noun_capybara_90002.png" />
+    <text xp="25" yp="37.8" sp="1.6" align="left">With the unsafe package there are no guarantees.</text>
+    <image xp="20" yp="38.8" width="300" height="300" scale="7" name="noun_caution_82742.png" />
+    <text xp="25" yp="32.6" sp="1.6" align="left">Clear is better than clever.</text>
+    <image xp="20" yp="33.6" width="300" height="300" scale="7" name="noun_eye_209057.png" />
+    <text xp="25" yp="27.4" sp="1.6" align="left">Reflection is never clear.</text>
+    <image xp="20" yp="28.4" width="300" height="300" scale="7" name="noun_mirror_59940.png" />
+    <text xp="25" yp="22.2" sp="1.6" align="left">Errors are values.</text>
+    <image xp="20" yp="23.2" width="300" height="300" scale="7" name="noun_danger_206486.png" />
+    <text xp="25" yp="17.00" sp="1.6" align="left">Don’t just check errors, handle them gracefully.</text>
+    <image xp="20" yp="18.00" width="300" height="300" scale="7" name="noun_handle-with-care_69.png" />
+    <text xp="25" yp="11.8" sp="1.6" align="left">Design the architecture, name the components, document the details.</text>
+    <image xp="20" yp="12.8" width="300" height="300" scale="7" name="noun_bridge_19693.png" />
+    <text xp="25" yp="6.6" sp="1.6" align="left">Documentation is for users.</text>
+    <image xp="20" yp="7.6" width="300" height="300" scale="7" name="noun_document_12036.png" />
+    <text xp="25" yp="1.4" sp="1.6" align="left">Don’t panic.</text>
+    <image xp="20" yp="2.4" width="300" height="300" scale="7" name="noun_bomb_193958.png" />
+  </slide>
+
+
+
+  <slide bg="white" fg="rgb(127,0,0)">
+    <text xp="35" yp="70" sp="5" wp="35" type="block">Don’t communicate by sharing memory, share memory by communicating.</text>
+    <image xp="15" yp="55" width="300" height="300" scale="80" name="/Users/ajstarks/Images/nouns/noun_skill-share_14291.png" />
+  </slide>
+  <slide bg="white" fg="rgb(127,0,0)">
+    <text xp="35" yp="70" sp="5" wp="35" type="block">Concurrency is not parallelism.</text>
+    <image xp="15" yp="65" width="300" height="300" scale="80" name="/Users/ajstarks/Images/nouns/noun_up-arrows_220576.png" />
+  </slide>
+  <slide bg="white" fg="rgb(127,0,0)">
+    <text xp="35" yp="70" sp="5" wp="35" type="block">Channels orchestrate; mutexes serialize.</text>
+    <image xp="15" yp="60" width="300" height="300" scale="80" name="/Users/ajstarks/Images/nouns/noun_pipes_61289.png" />
+  </slide>
+  <slide bg="white" fg="rgb(127,0,0)">
+    <text xp="35" yp="70" sp="5" wp="35" type="block">The bigger the interface, the weaker the abstraction.</text>
+    <image xp="15" yp="65" width="300" height="300" scale="80" name="/Users/ajstarks/Images/nouns/noun_whale_149531.png" />
+  </slide>
+  <slide bg="white" fg="rgb(127,0,0)">
+    <text xp="35" yp="70" sp="5" wp="35" type="block">Make the zero value useful.</text>
+    <image xp="15" yp="65" width="300" height="300" scale="80" name="/Users/ajstarks/Images/nouns/noun_okay_13505.png" />
+  </slide>
+  <slide bg="white" fg="rgb(127,0,0)">
+    <text xp="35" yp="70" sp="5" wp="40" type="block">interface{} says nothing.</text>
+    <image xp="15" yp="60" width="300" height="300" scale="80" name="/Users/ajstarks/Images/nouns/noun_mute_163525.png" />
+  </slide>
+  <slide bg="white" fg="rgb(127,0,0)">
+    <text xp="35" yp="70" sp="5" wp="35" type="block">Gofmt’s style is no one’s favorite, yet gofmt is everyone’s favorite.</text>
+    <image xp="15" yp="55" width="300" height="300" scale="80" name="/Users/ajstarks/Images/nouns/noun_curly-brackets_108564.png" />
+  </slide>
+  <slide bg="white" fg="rgb(127,0,0)">
+    <text xp="35" yp="70" sp="5" wp="35" type="block">A little copying is better than a little dependency.</text>
+    <image xp="15" yp="60" width="300" height="300" scale="80" name="/Users/ajstarks/Images/nouns/noun_copy_110923.png" />
+  </slide>
+  <slide bg="white" fg="rgb(127,0,0)">
+    <text xp="35" yp="70" sp="5" wp="35" type="block">Syscall must always be guarded with build tags.</text>
+    <image xp="12" yp="60" width="300" height="300" scale="30" name="/Users/ajstarks/Images/nouns/noun_tools_59222.png" />
+    <image xp="15" yp="60" width="300" height="300" scale="80" name="/Users/ajstarks/Images/nouns/noun_shield_45407.png" opacity="30" />
+  </slide>
+  <slide bg="white" fg="rgb(127,0,0)">
+    <text xp="35" yp="70" sp="5" wp="35" type="block">Cgo must always be guarded with build tags.</text>
+    <image xp="13" yp="60" width="300" height="300" scale="30" name="/Users/ajstarks/Images/nouns/noun_copyright_62293.png" />
+    <image xp="15" yp="60" width="300" height="300" scale="80" name="/Users/ajstarks/Images/nouns/noun_shield_45407.png" />
+  </slide>
+  <slide bg="white" fg="rgb(127,0,0)">
+    <text xp="35" yp="70" sp="5" wp="50" type="block">Cgo is not Go.</text>
+    <image xp="15" yp="60" width="300" height="300" scale="80" name="/Users/ajstarks/Images/nouns/noun_capybara_90002.png" />
+    <image xp="18" yp="60" width="300" height="300" scale="15" name="/Users/ajstarks/Images/nouns/noun_copyright_62293.png" />
+  </slide>
+  <slide bg="white" fg="rgb(127,0,0)">
+    <text xp="35" yp="70" sp="5" wp="35" type="block">With the unsafe package there are no guarantees.</text>
+    <image xp="15" yp="60" width="300" height="300" scale="90" name="/Users/ajstarks/Images/nouns/noun_caution_82742.png" />
+  </slide>
+  <slide bg="white" fg="rgb(127,0,0)">
+    <text xp="35" yp="70" sp="5" wp="35" type="block">Clear is better than clever.</text>
+    <image xp="15" yp="65" width="300" height="300" scale="80" name="/Users/ajstarks/Images/nouns/noun_eye_209057.png" />
+  </slide>
+  <slide bg="white" fg="rgb(127,0,0)">
+    <text xp="35" yp="70" sp="5" wp="35" type="block">Reflection is never clear.</text>
+    <image xp="15" yp="60" width="300" height="300" scale="80" name="/Users/ajstarks/Images/nouns/noun_mirror_59940.png" />
+  </slide>
+  <slide bg="white" fg="rgb(127,0,0)">
+    <text xp="35" yp="70" sp="5" wp="50" type="block">Errors are values.</text>
+    <image xp="15" yp="60" width="300" height="300" scale="80" name="/Users/ajstarks/Images/nouns/noun_danger_206486.png" />
+  </slide>
+  <slide bg="white" fg="rgb(127,0,0)">
+    <text xp="35" yp="70" sp="5" wp="35" type="block">Don’t just check errors, handle them gracefully.</text>
+    <image xp="15" yp="60" width="300" height="300" scale="80" name="/Users/ajstarks/Images/nouns/noun_handle-with-care_69.png" />
+  </slide>
+  <slide bg="white" fg="rgb(127,0,0)">
+    <text xp="35" yp="70" sp="5" wp="35" type="block">Design the architecture, name the components, document the details.</text>
+    <image xp="15" yp="60" width="300" height="300" scale="80" name="/Users/ajstarks/Images/nouns/noun_bridge_19693.png" />
+  </slide>
+  <slide bg="white" fg="rgb(127,0,0)">
+    <text xp="35" yp="70" sp="5" wp="35" type="block">Documentation is for users.</text>
+    <image xp="15" yp="60" width="300" height="300" scale="80" name="/Users/ajstarks/Images/nouns/noun_document_12036.png" />
+  </slide>
+  <slide bg="white" fg="rgb(127,0,0)">
+    <text xp="35" yp="70" sp="5" wp="50" type="block">Don’t panic.</text>
+    <image xp="15" yp="60" width="300" height="300" scale="80" name="/Users/ajstarks/Images/nouns/noun_bomb_193958.png" />
+  </slide>
+ 
+</deck>
