@@ -1,4 +1,4 @@
-# Go Proverbs
+# Go Proverbs, Illustrated
 
 Proverbs from Rob Pike's talk at Gopherfest SV 2015
 
